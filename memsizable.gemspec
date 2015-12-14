@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ['Marko Bošković']
   s.email       = 'marko@bosskovic@gmail.com'
   s.files       = ['lib/memsizable.rb']
-  s.homepage    =
-    'http://rubygems.org/gems/memsizable'
+  s.homepage    = 'http://rubygems.org/gems/memsizable'
   s.license       = 'MIT'
 end
